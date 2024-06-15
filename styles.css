@@ -1,0 +1,62 @@
+body {
+
+    background-image: url("https://www.shutterstock.com/image-photo/passengers-commercial-airplane-flying-above-260nw-1320035711.jpg");
+    background-repeat: no-repeat, repeat;
+    background-size: cover;
+    
+    height: 49.9rem
+}
+header{
+    text-align: center;
+    margin-left: 15%;
+    margin-right:15%;
+    color:white;
+
+    margin-top: 5rem;;
+    font-size: 30px;
+}
+
+#welcome {
+
+    color: rgb(24, 25, 24)#000080;
+    padding: top;
+    margin-top: 12rem;
+    margin-left: 2rem;
+
+}
+
+#main {
+    margin-left: 10%;
+    width: 500px;
+    margin-right: 45%;
+}
+
+button {
+    text-align: center;
+    margin-left: 15%;
+    margin-right: 45%;
+    padding-left: 0.5rem;
+    padding-right: 0.5rem;
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+    color: rgb(232, 230, 237);
+    background-color: rgb(81, 86, 143);
+    border-radius: 10px;
+    ;
+    margin-top: 5%;
+    border: 2px solid transparent;
+}
+a{
+    text-decoration: none;
+
+    color:aliceblue;
+}
+
+p {
+    font-size: large;
+    margin-right: 15%;
+    margin-top: 5%;
+    text-align: center;
+    font-weight: 300;
+
+}
